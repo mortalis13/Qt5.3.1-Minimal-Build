@@ -1,0 +1,146 @@
+Environment:
+    INCLUDE=
+      Unset
+    LIB=
+      Unset
+    PATH=
+      C:\Program Files\ConEmu
+      C:\Program Files\ConEmu\ConEmu
+      C:\Perl\site\bin
+      C:\Perl\bin
+      %SystemRoot%\system32
+      %SystemRoot%
+      %SystemRoot%\system32\WBEM
+      C:\Ruby21\bin
+      c:\rubygems\bin\
+      C:\Program Files\ATI Technologies\ATI.ACE\Core-Static
+      C:\Program Files\git\cmd
+      C:\ProgramData\ComposerSetup\bin
+      C:\xampp-xp\php
+      c:\xampp-xp\mysql\bin
+      c:\xampp-xp\apache\bin
+      c:\program files\7-zip
+      C:\Program Files\nodejs
+      C:\Program Files\Subversion\bin
+      d:\Windows\Microsoft.NET\Framework\v4.0.30319
+      C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+      C:\Program Files\WiX Toolset v3.9\bin
+      C:\Program Files\Inno Setup 5
+      C:\Program Files\Microsoft Visual Studio 12.0\VC\bin
+      C:\Program Files\WinSCP3\
+      c:\ruby_pem
+      C:\Qt\Qt5.3.1\5.3\mingw482_32\bin
+      C:\Qt\Qt5.3.1\Tools\mingw482_32\bin
+      C:\Qt\5.3.1sep\qtbase\bin
+      C:\Qt\5.3.1sep
+Configuration:
+    pcre
+    release
+    compile_examples
+Qt Configuration:
+    minimal-config
+    small-config
+    medium-config
+    large-config
+    full-config
+    release
+    c++11
+    shared
+    system-zlib
+    png
+    opengl
+    audio-backend
+    native-gestures
+    qpa
+    concurrent
+
+QMAKESPEC...................win32-g++ (commandline)
+Architecture................i386, features:
+Host Architecture...........i386, features:
+Maketool....................mingw32-make
+Debug.......................no
+Force debug info............no
+C++11 support...............yes
+Link Time Code Generation...no
+Accessibility support.......no
+RTTI support................no
+SSE2 support................no
+SSE3 support................no
+SSSE3 support...............no
+SSE4.1 support..............no
+SSE4.2 support..............no
+AVX support.................no
+AVX2 support................no
+NEON support................no
+IWMMXT support..............no
+OpenGL support..............yes
+Large File support..........yes
+NIS support.................no
+Iconv support...............no
+Evdev support...............no
+Mtdev support...............no
+Inotify support.............no
+eventfd(7) support..........no
+Glib support................no
+CUPS support................no
+OpenVG support..............no
+OpenSSL support.............no
+Qt D-Bus support............no
+Qt Widgets module support...yes
+Qt GUI module support.......yes
+QML debugging...............no
+DirectWrite support.........no
+Use system proxies..........no
+
+QPA Backends:
+    GDI.....................yes
+    Direct2D................no
+
+Third Party Libraries:
+    ZLIB support............system
+    GIF support.............plugin
+    JPEG support............plugin
+    PNG support.............yes
+    FreeType support........no
+    Fontconfig support......no
+    HarfBuzz-NG support.....no
+    PCRE support............qt
+    ICU support.............no
+    ANGLE...................no
+    Dynamic OpenGL..........no
+
+Styles:
+    Windows.................yes
+    Windows XP..............yes
+    Windows Vista...........no
+    Fusion..................yes
+    Windows CE..............no
+    Windows Mobile..........no
+
+Sql Drivers:
+    ODBC....................no
+    MySQL...................no
+    OCI.....................no
+    PostgreSQL..............no
+    TDS.....................no
+    DB2.....................no
+    SQLite..................plugin (qt)
+    SQLite2.................no
+    InterBase...............no
+
+Sources are in..............C:\Qt\5.3.1sep
+Build is done in............C:\1-Roman\Documents\6-tmp\qt\1-build\result\4
+Install prefix..............C:\1-Roman\Documents\6-tmp\qt\1-build\result\4
+Headers installed to........C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\include
+Libraries installed to......C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\lib
+Arch-dep. data to...........C:\1-Roman\Documents\6-tmp\qt\1-build\result\4
+Plugins installed to........C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\plugins
+Library execs installed to..C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\bin
+QML1 imports installed to...C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\imports
+QML2 imports installed to...C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\qml
+Binaries installed to.......C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\bin
+Arch-indep. data to.........C:\1-Roman\Documents\6-tmp\qt\1-build\result\4
+Docs installed to...........C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\doc
+Translations installed to...C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\translations
+Examples installed to.......C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\examples
+Tests installed to..........C:\1-Roman\Documents\6-tmp\qt\1-build\result\4\tests
